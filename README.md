@@ -1,6 +1,6 @@
 # 2DPeriodicIsingModel
 [Modelo de Ising](https://www.youtube.com/watch?v=1CCZkHPrhzk&ab_channel=PrettyMuchPhysics) bidimensional, finito y periódico. Observables: calor específico, magnetización y función de correlación. 
-[Animación.](https://drive.google.com/file/d/1-fSmn80ETYLHJEAT3UtTv2ZZUnnu4q73/view?usp=sharing)
+[Animación](https://drive.google.com/file/d/1-fSmn80ETYLHJEAT3UtTv2ZZUnnu4q73/view?usp=sharing).
 
 Existe una relación entre los sistemas estadísticos y los sistemas de campos cuánticos. Esta relación la conocemos, por ejemplo, de la equivalencia entre la función de partición de la física estadística y la función generadora de las teorías de campos. En particular, el modelo de Ising es un sistema estadístico que describe propiedades ferromagnéticas mediante la interacción de espines clíasicos. A partir de una simulación obtuve numéricamente para este modelo la llamada longitud de correlación, que indica hasta qué distancia se manifiesta la influencia de un espín sobre otro en una red, y que tiene un análogo en las teorías de campos, particularmente en QCD. Este análogo es el inverso de la masa de las partículas.
 
